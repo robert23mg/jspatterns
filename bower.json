@@ -1,0 +1,17 @@
+{
+  "name": "jspatterns",
+  "description": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.2.0"
+  }
+}
